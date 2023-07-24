@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.LongestPeakTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-07-24T17:30:48" hostname="Utkarshs-MacBook-Pro.local" time="0.015">
+  <properties/>
+  <testcase name="sampleTestCase()" classname="org.example.LongestPeakTest" time="0.009"/>
+  <testcase name="testCaseOne()" classname="org.example.LongestPeakTest" time="0.002"/>
+  <testcase name="testCaseSix()" classname="org.example.LongestPeakTest" time="0.0"/>
+  <testcase name="testCaseTen()" classname="org.example.LongestPeakTest" time="0.0"/>
+  <testcase name="testCaseTwo()" classname="org.example.LongestPeakTest" time="0.0"/>
+  <testcase name="testCaseFive()" classname="org.example.LongestPeakTest" time="0.001"/>
+  <testcase name="testCaseFour()" classname="org.example.LongestPeakTest" time="0.0"/>
+  <testcase name="testCaseNine()" classname="org.example.LongestPeakTest" time="0.001"/>
+  <testcase name="testCaseEigth()" classname="org.example.LongestPeakTest" time="0.0"/>
+  <testcase name="testCaseSeven()" classname="org.example.LongestPeakTest" time="0.0"/>
+  <testcase name="testCaseThree()" classname="org.example.LongestPeakTest" time="0.001"/>
+  <system-out><![CDATA[0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
